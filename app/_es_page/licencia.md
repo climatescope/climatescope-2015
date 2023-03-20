@@ -7,7 +7,7 @@ id: license
 
 ## Copyright
 El Climascopio es una evaluación única hecha país por país con un informe interactivo e indexado que evalúa el clima de inversiones para las inversiones relacionadas con el clima a nivel mundial. 
-The Climatescope a unique country-by-country assessment, interactive report and index that evaluates the investment climate for climate-related investment worldwide. Adopta una política de [código abierto](http://github.com/climatescope/global-climatescope.org), proveyendo acceso a datos de manera gratuita para cualquiera. La herramienta está orientada a inversionistas, empresas, gobiernos, ONG, investigadores, comunidades y otros que estén sopesando las oportunidades de invertir en energías verdes.
+The Climatescope a unique country-by-country assessment, interactive report and index that evaluates the investment climate for climate-related investment worldwide. Adopta una política de [código abierto](https://github.com/climatescope/global-climatescope.org), proveyendo acceso a datos de manera gratuita para cualquiera. La herramienta está orientada a inversionistas, empresas, gobiernos, ONG, investigadores, comunidades y otros que estén sopesando las oportunidades de invertir en energías verdes.
 
 ***
 

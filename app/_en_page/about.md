@@ -17,14 +17,14 @@ In 2014, the UK Department for International Development and the US Agency for I
 ***
 
 ## Credits
-All satellite imagery by [NASA](http://earthobservatory.nasa.gov/?eocn=topnav&eoci=logo).
+All satellite imagery by [NASA](https://earthobservatory.nasa.gov/?eocn=topnav&eoci=logo).
 
 <h3 class="hd-label adjacent-bottom">Developed by</h3>
 <ul class="logo-list">
   <li>
-    <a href="http://flipside.org/" title="Visit Flipside" target="_blank"><img width="256" height="128" alt="Flipside logo" src="{{ site.domain }}{{ site.path_prefix }}/assets/images/layout/credits-logo-flipside.png" /> <span>Flipside</span></a>
+    <a href="https://flipside.org/" title="Visit Flipside" target="_blank"><img width="256" height="128" alt="Flipside logo" src="{{ site.domain }}{{ site.path_prefix }}/assets/images/layout/credits-logo-flipside.png" /> <span>Flipside</span></a>
   </li>
   <li>
-    <a href="http://developmentseed.org/" title="Visit Development Seed" target="_blank"><img width="256" height="128" alt="Development Seed logo" src="{{ site.domain }}{{ site.path_prefix }}/assets/images/layout/credits-logo-devseed.png" /> <span>Development Seed</span></a>
+    <a href="https://developmentseed.org/" title="Visit Development Seed" target="_blank"><img width="256" height="128" alt="Development Seed logo" src="{{ site.domain }}{{ site.path_prefix }}/assets/images/layout/credits-logo-devseed.png" /> <span>Development Seed</span></a>
   </li>
 </ul>
